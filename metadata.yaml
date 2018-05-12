@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33501'
     url: http://www.gutenberg.org/2009/agents/33501
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28715#De-Boeventaal--13-jongens-van-de-vlakte
 gutenberg_issued: '2009-05-08'
 gutenberg_type: Text
 identifiers:
